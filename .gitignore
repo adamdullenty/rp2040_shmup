@@ -1,0 +1,20 @@
+# Arduino build output
+build/
+*.hex
+*.elf
+*.bin
+*.uf2
+*.map
+
+# IDE / editor
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local tooling
+.venv/
+__pycache__/
+*.pyc
