@@ -2,6 +2,10 @@
 
 Horizontal side-scrolling shmup on a 128×64 SH1107 OLED FeatherWing.
 
+## Demo
+
+[![Gameplay demo](https://img.youtube.com/vi/5xTBma8sJN4/hqdefault.jpg)](https://www.youtube.com/watch?v=5xTBma8sJN4)
+
 ## Hardware
 
 - **Board:** Adafruit Feather RP2040
@@ -36,3 +40,9 @@ Horizontal side-scrolling shmup on a 128×64 SH1107 OLED FeatherWing.
 Open space scroll with a sparse starfield. Enemies and powerups spawn from the right; difficulty ramps with distance.
 
 Powerups: **S** spread, **R** rapid fire, **H** shield, **B** extra bomb.
+
+## Setup
+
+Feather RP2040 with OLED FeatherWing stacked, connected over USB.
+
+![Feather RP2040 + OLED FeatherWing](docs/setup.png)
